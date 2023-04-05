@@ -21,5 +21,7 @@ The concepts used in this project
 5. forEach functions
 6. Handling events such as input, click.
 
+Here is the link to the project. [https://siddhantsiddh15-markdown-editor.netlify.app/](https://siddhantsiddh15-markdown-editor.netlify.app/)
+
 
 The project was made using the instructions from codedamn.
